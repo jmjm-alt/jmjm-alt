@@ -170,32 +170,40 @@
 <div align="center">
 	<img src="https://res.klook.com/image/upload/fl_lossy.progressive,w_273,h_180,c_fill,q_85/activities/vdm82oxxiiqtntqtqb2n.webp" width="300">
 </div>
-<p align=”center”>埃菲尔铁塔（法语：La Tour Eiffel；英语：the Eiffel Tower），矗立在法国巴黎市战神广场上，旁靠塞纳河，为举行1889年世界博览会，用以庆祝法国大革命胜利100周年，法国政府进行建筑招标，最终确立埃菲尔铁塔。</p>
-   <p align=”center”>其始建于1887年1月26日，于1889年3月31日竣工，并成为当时世界最高建筑。</p>
-   <p align=”center”>埃菲尔铁塔初始高度312米，现高330米 。</p>
-   <p align=”center”>一楼高57米，占地4415平方米，二楼高115米，占地1430平方米，三楼高276米，占地250平方米。</p>
-     <p align=”center”><a href="https://baike.baidu.com/item/%E5%9F%83%E8%8F%B2%E5%B0%94%E9%93%81%E5%A1%94/559934">资料来源</a></p>
+<p align="center">埃菲尔铁塔（法语：La Tour Eiffel；英语：the Eiffel Tower），矗立在法国巴黎市战神广场上，旁靠塞纳河，</p>	
+<p align="center">为举行1889年世界博览会，用以庆祝法国大革命胜利100周年，法国政府进行建筑招标，最终确立埃菲尔铁塔。</p>
+<p align="center">其始建于1887年1月26日，于1889年3月31日竣工，并成为当时世界最高建筑。</p>
+   <p align="center">埃菲尔铁塔初始高度312米，现高330米 。</p>
+    <p align="center">一楼高57米，占地4415平方米，二楼高115米，占地1430平方米，三楼高276米，占地250平方米。</p>
+   <p align=”center”></p>
+   <p align="center"><a href="https://baike.baidu.com/item/%E5%9F%83%E8%8F%B2%E5%B0%94%E9%93%81%E5%A1%94/559934">资料来源</a></p>
 
-<h2 align=”center”>卢浮塔</h2>
+<h2 align="center">卢浮塔</h2>
 <div align="center">
 	<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/4f/70/dc/cour-napoleon-et-pyramide.jpg?w=900&h=600&s=1" width="300">
 </div>
+<p align="center">卢浮宫（法语：Musée du Louvre），位于法国巴黎市中心的塞纳河北岸，位居世界四大博物馆之首。</p>
+<p align="center">始建于1204年，原是法国的王宫，居住过50位法国国王和王后，是法国古典主义时期最珍贵的建筑物之一，以收藏丰富的古典绘画和雕刻而闻名于世。</p>
+ <p align="center">现为卢浮宫博物馆，占地约198公顷，分新老两部分，宫前的金字塔形玻璃入口，占地面积为24公顷，是华人建筑大师贝聿铭设计的。</p>
+ <p align="center">1793年8月10日，卢浮宫艺术馆正式对外开放，成为一个博物馆。</p>
 
-<p align=”center”>卢浮宫（法语：Musée du Louvre），位于法国巴黎市中心的塞纳河北岸，位居世界四大博物馆之首。</p>
-<p align=”center”>始建于1204年，原是法国的王宫，居住过50位法国国王和王后，是法国古典主义时期最珍贵的建筑物之一，以收藏丰富的古典绘画和雕刻而闻名于世。</p>
-<p align=”center”>现为卢浮宫博物馆，占地约198公顷，分新老两部分，宫前的金字塔形玻璃入口，占地面积为24公顷，是华人建筑大师贝聿铭设计的。</p>
-<p align=”center”>1793年8月10日，卢浮宫艺术馆正式对外开放，成为一个博物馆。</p>
-<p align=”center”><a href="https://baike.baidu.com/item/%E5%8D%A2%E6%B5%AE%E5%AE%AB/163199">资料来源</a></p>
 
-<h2 align=”center”>凡尔赛宫</h2>
+<p align="center"><a href="https://baike.baidu.com/item/%E5%8D%A2%E6%B5%AE%E5%AE%AB/163199">资料来源</a></p>
+<h2 align="center">凡尔赛宫</h2>
+
 <div align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Chateau_de_Versailles_Chapelle_Royal_2021.JPG/1200px-Chateau_de_Versailles_Chapelle_Royal_2021.JPG" width="300">
 </div>
-<p align=”center”>凡尔赛宫（法文：Château de Versailles）位于法国巴黎西南郊外伊夫林省省会凡尔赛镇，是巴黎著名的宫殿之一，也是世界五大宫殿之一（中国故宫、法国凡尔赛宫、英国白金汉宫、美国白宫、俄罗斯克里姆林宫）。</p>
-<p align=”center”>1979年被列为《世界文化遗产名录》。凡尔赛宫所在地区原来是一片森林和沼泽荒地。1624年，法国国王路易十三以1万里弗尔的价格买下了117法亩荒地，在这里修建了一座二层的红砖楼房，用作狩猎行宫。</p>
-<p align=”center”>二楼有国王办公室、寝室、接见室、藏衣室、随从人员卧室等房间，一层为家具储藏室和兵器库。当时的行宫拥有26个房间，如今拥有2300个房间，67个楼梯和5210件家具。作为法兰西宫庭长达107年（1682-1789）。</p>
-<p align=”center”><a href="https://baike.baidu.com/item/%E5%87%A1%E5%B0%94%E8%B5%9B%E5%AE%AB/523764">资料来源</a></p>
+<p align="center">凡尔赛宫（法文：Château de Versailles）位于法国巴黎西南郊外伊夫林省省会凡尔赛镇，</p>
+<p align="center">是巴黎著名的宫殿之一，也是世界五大宫殿之一。（中国故宫、法国凡尔赛宫、英国白金汉宫、美国白宫、俄罗斯克里姆林宫）</p>
+<p align="center">1979年被列为《世界文化遗产名录》。凡尔赛宫所在地区原来是一片森林和沼泽荒地。</p>
+<p align="center">1624年，法国国王路易十三以1万里弗尔的价格买下了117法亩荒地，在这里修建了一座二层的红砖楼房，用作狩猎行宫。</p>
+<p align="center">二楼有国王办公室、寝室、接见室、藏衣室、随从人员卧室等房间，一层为家具储藏室和兵器库。</p>
+<p align="center">当时的行宫拥有26个房间，如今拥有2300个房间，67个楼梯和5210件家具。作为法兰西宫庭长达107年（1682-1789）。</p>								     
 
+<p align="center"><a href="https://baike.baidu.com/item/%E5%87%A1%E5%B0%94%E8%B5%9B%E5%AE%AB/523764">资料来源</a></p>
+<p align="center"><a href="#H" align="center">回到目录</a></p>
+<hr>
 <h1 id="F" align="center">文化特色</h1>
 <h2 align="center">问候，陌生人！Bonjour！</h2>
 <div align="center">
