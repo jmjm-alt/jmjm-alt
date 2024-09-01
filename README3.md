@@ -17,7 +17,7 @@
 <p align="center">其首都巴黎为国际政治、艺术和文化中心，大都会区人口达1,311万，同时为欧洲生产总值最高的都会区。</p>
 
 
-
+<hr>
 
 <center><h2 align="center" id="H">目录</h2>
 <body>
@@ -30,7 +30,7 @@
 </body>
 </center>
 
-
+<hr>
 <h1 id="A" align="center">当地美食</h1>
 <h2 align="center">鹅肝</h2>
   <div align="center">
@@ -38,6 +38,7 @@
 </div>
 <p align="center">鹅肝属于法国西南部地区比较名贵的一道特色美食。</p>
 <p align="center">通常为汉堡里或是吃面包时的前菜，可以配着盐和无花果酱吃！</p>
+
 <h2 align="center">萨瓦奶酪火锅</h2>
 
  <div align="center">
