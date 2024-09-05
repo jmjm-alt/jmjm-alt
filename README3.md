@@ -208,7 +208,7 @@
 <h1 id="F" align="center">文化特色</h1>
 <h2 align="center">问候，陌生人！Bonjour！</h2>
 <div align="center">
-	<img src="https://lens.google.com/search?ep=gsbubb&hl=en-MY&re=df&p=AbrfA8pURW755gpDrqsEpHjR-7jQBNqRNALkkIfU4Y-iqEUzlR_8_6YqgTKbJBS6Ujgh4aAlp7TS2Ta8t7QFlQYaMg2a2dE2AEPPftgeefp493JWNwgO9A6u_cGTDxSS86LIVAh_ouSsuU-avxcwAn_lTud3K5t3ggAeb4h4zcb8nywPw7hWSM10ZOtl9pUcNr3-TZzlrRTHSKuqNhNFVLC1EMphqkpFVNMJzYFegHsOAcg2OUhcG1WLgWphJ_-rVj0OVRIkOp9Zfcpm0H-fWQKED8uxNTlYcimsFB7H5qynn4RBqAbwutg5gUdUncQ1HYc%3D#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKR1kxWkRnNVpURm1MV1F3WVRNdE5EbGpZaTFpTVdJMUxXSTJOamsxT0dRelpHWTJNQklmUVhjNE0zQnVWUzFLVDBWVU9FZHRjM3A0VFdaRGJIUklSM2RUVGtkb2F3PT0iLG51bGwsbnVsbCxudWxsLDEsbnVsbCxbbnVsbCxudWxsLFswLDAsMTAwMDAwLDEwMDAwMF1dLG51bGwsWyIxNzI3NzJhZS02NzY2LTRjZGItYTFlOC0wMTc1Y2ZlNjFhMmIiXV0=" width="300">
+	<img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T31A1PA29PT10X0Y8D310152569W5994H5302/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/bonjour-croissant-funny-french-food-mug.jpg" width="300">
 </div>
 
 <p align="center">良好的第一印象决定一切； 法国礼仪也是如此。 </p>
